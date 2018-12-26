@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="obra-dinn-2" size="0.100000 0.056236" />
+    <ImageTarget name="obra-dinn-3" size="0.100000 0.056236" />
+    <ImageTarget name="meerut_plan" size="0.100000 0.084184" />
+    <ImageTarget name="meerut_sat" size="0.100000 0.081931" />
+    <ImageTarget name="final" size="0.100000 0.149774" />
+    <ImageTarget name="obra-dinn-1" size="0.100000 0.056273" />
+    <ImageTarget name="zoom_intermediaire_tableau" size="0.100000 0.052608" />
+    <ImageTarget name="zoom_max_tableau" size="0.100000 0.088949" />
+    <ImageTarget name="tableau_2" size="0.050000 0.059783" />
+    <ImageTarget name="Queen_Victoria_Signature" size="0.050000 0.022245" />
+    <ImageTarget name="Dronning_victoria" size="0.050000 0.059353" />
+    <ImageTarget name="Queen_Victoria_by_Bassano" size="0.050000 0.070426" />
+  </Tracking>
+</QCARConfig>
