@@ -22,7 +22,7 @@ public class Introduction : MonoBehaviour {
         uiText.text = "Vous sortez d'une visite au musée dédié à la reine Victoria. \n" +
             "En vérifiant vos photos, vous remarquez que 3 nouvelles sont apparues. \n" +
             "En les regardant sur votre ordinateur via la caméra de votre téléphone, \n" +
-            "vous découvrerez peut-être un trésor...";
+            "vous aurez peut-être la chance de trouver un trésor...";
     }
 	
 	// Update is called once per frame
